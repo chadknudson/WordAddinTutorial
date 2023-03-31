@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordAddinTutorial", "WordAddinTutorial\WordAddinTutorial.csproj", "{B79BC784-7DAB-41F6-BACB-3B5BB49F9D1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{A9D00B9E-CBB9-43B5-BD19-AAD43FDF340D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetOfficeFwBuildTasks", "NetOfficeFwBuildTasks", "{232FA98B-C515-47A0-9A27-F87A251448CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79BC784-7DAB-41F6-BACB-3B5BB49F9D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79BC784-7DAB-41F6-BACB-3B5BB49F9D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79BC784-7DAB-41F6-BACB-3B5BB49F9D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79BC784-7DAB-41F6-BACB-3B5BB49F9D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{232FA98B-C515-47A0-9A27-F87A251448CB} = {A9D00B9E-CBB9-43B5-BD19-AAD43FDF340D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC79864-5CF0-41DC-BC10-08C044E84296}
+	EndGlobalSection
+EndGlobal
